@@ -1,5 +1,9 @@
 # ij-start123kanon
 
+<div class='buttoncss' style='text-align: center;'>
+<a href='https://ij.setupcanon-ijstart.com/webmanual/'><img alt='ij.start.canon, ij.start.canon setup, ij start canon' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN7UKxgKm34snxNetvB3y05BBSJfWtctH8s63OJBdkWScnbHZ7mqNUT22Tr0nSoU-rVluY-dlfkYhtPgo9JvwrZWBchlqjSVEhYJHy0QCqWlaeScyUbbRKKUE3U46AKCPD1oZnURpSTDwPCegmT-m4YGnlzImtDvMSa_Dr0bpFQah1N-q9yfsLYs3AOA/s320/get%20started%20button.png'/></a>
+</div>
+
 If you need to set up a Canon printer on your operating system using a wired or wireless network, visit Canon's official website at <a href="https://www.linkedin.com/pulse/how-connect-canon-printer-laptop-katherine-wood-1f//">ij.start.canon</a>, you will find all the setup guides easily. Before installing a Canon printer on your device, you must first download and install compatible driver software from ij.start.canon.
 Canon Printer Wired Setup On Windows With a USB Cable
 In order to set up a Canon printer on your Windows computer using a USB cable, here's what you need to do: 
